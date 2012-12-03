@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[YPlan Tech Team Blog]]></title>
-  <link href="http://YPlan.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Blog | YPlan Tech Team Blog]]></title>
+  <link href="http://YPlan.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://YPlan.github.com/"/>
   <updated>2012-12-03T17:28:53+00:00</updated>
   <id>http://YPlan.github.com/</id>
@@ -23,7 +23,7 @@
 <!-- more -->
 
 
-<p>So you want to set up a blog? I did, and I&#8217;ve decided to try out a few static pages generators. This is a first post using Octopress.</p>
+<p>So you want to set up a blog? I did, and I've decided to try out a few static pages generators. This is a first post using Octopress.</p>
 ]]></content>
   </entry>
   

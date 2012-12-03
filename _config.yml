@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://YPlan.github.com
-title: YPlan Tech Team Blog
+title: YPlan Tech
 subtitle: Stories from technology team at YPlan.
 author: YPlan
 simple_search: http://google.com/search
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: "yptech"
 disqus_show_comment_count: false
 
 # Google Analytics

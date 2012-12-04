@@ -19,3 +19,39 @@
 //$sidebar-pad-medium: 15px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
+
+/* header[role="banner"] {
+     background-image: url(/images/YPlan_icon.png);
+     background-repeat: no-repeat;
+     background-position: 40px 40px;
+}
+*/
+body > header h1 {
+      padding-left:100px;
+      text-align:left;
+}
+
+body > header h2 {
+      padding-left:100px;
+      text-align:left;
+}
+
+body > header #logo {
+      content:"";
+      position:absolute;
+      left: 20px;
+      top: 20px;
+      height:93px;
+      width:93px;
+      overflow:hidden;
+      background-image:url('/images/YPlan_icon.png');
+      background-repeat:no-repeat;
+      @media only screen and (min-width: 432px) {
+          left: 20px;
+          top: 20px;
+      }
+      @media only screen and (min-width: 992px) {
+        left:50px;
+        top:45px;
+      }
+}

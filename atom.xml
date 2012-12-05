@@ -4,7 +4,7 @@
   <title><![CDATA[YPlan Tech]]></title>
   <link href="http://YPlan.github.com/atom.xml" rel="self"/>
   <link href="http://YPlan.github.com/"/>
-  <updated>2012-12-05T21:00:44+00:00</updated>
+  <updated>2012-12-05T21:05:30+00:00</updated>
   <id>http://YPlan.github.com/</id>
   <author>
     <name><![CDATA[YPlan]]></name>
@@ -146,20 +146,6 @@ requirements and find answers in unexpected places.</p>
 
 <p>Please let me know what you think and feel free to share your ideas in the
 comments section below.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test Post: How to set up a blog using Octopress]]></title>
-    <link href="http://YPlan.github.com/blog/2012/12/03/test-post-how-to-set-up-a-blog-using-octopress/"/>
-    <updated>2012-12-03T17:24:00+00:00</updated>
-    <id>http://YPlan.github.com/blog/2012/12/03/test-post-how-to-set-up-a-blog-using-octopress</id>
-    <content type="html"><![CDATA[<p>Hello world! YPlan tech team blog is live.</p>
-
-<!-- more -->
-
-
-<p>So you want to set up a blog? I did, and I&#8217;ve decided to try out a few static pages generators. This is a first post using Octopress.</p>
 ]]></content>
   </entry>
   

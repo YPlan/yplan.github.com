@@ -75,7 +75,7 @@ a sweat, both latency and Apdex score stayed the same.
 
 {% img /images/2012-12-20-stephen-fry-effect/newrelic.png New Relic backend API server load %}
 
-The itself tweet got 157 retweets, received 160 favorites and a bunch of replies.
+The tweet itself got 157 retweets, received 160 favorites and a bunch of replies.
 
 It was difficult to estimate number of downloads real-time, however we shot-up to number 14 in Lifestyle category within 
 half an hour. Looking at downloads for that day later on we could safely estimate it brought in around 2,000 downloads. 
@@ -91,7 +91,7 @@ Receiving endorsement from such renowned person as Stephen Fry is very pleasing.
 very well without any noticeable problems or slowdowns. Most importantly it encourages us to continue working
 on mobile commerce technology helping consumers and changing entertainment industry for the better.
 
-> _Fellow HN readers, please upvote [here](http://news.ycombinator.com/)._
+> _Fellow HN readers, please upvote [here](https://news.ycombinator.com/item?id=5787093)._
 
-> _Are you a developer? We're [hiring](http://yplan.theresumator.com/)!_
+> _Oh and by the way, we're [hiring](http://yplan.theresumator.com/)!_
 

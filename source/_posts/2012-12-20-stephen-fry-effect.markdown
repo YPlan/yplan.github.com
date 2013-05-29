@@ -11,7 +11,7 @@ twitter: "@ViktorasJucikas"
 
 {% img /images/2012-12-20-stephen-fry-effect/tweet.png %}
 
-On the 13th of December 2012, 9:34am GMT we've received a [tweet](https://twitter.com/stephenfry/status/279157424642994177) 
+On the 13th of December 2012, 9:34am GMT we received a [tweet](https://twitter.com/stephenfry/status/279157424642994177) 
 from [Stephen Fry](http://en.wikipedia.org/wiki/Stephen_Fry). At that point he had 5.1 million followers, making him [#5 most followed person in
 UK](http://twitaholic.com/top100/followers/). Here's what happened.
 
